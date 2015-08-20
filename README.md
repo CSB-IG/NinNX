@@ -1,4 +1,4 @@
-natk
-====
+Bunch of Network Analysis scripts
+=================================
 
-Network Analysis Tool Kit
+work in progress
